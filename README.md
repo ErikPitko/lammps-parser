@@ -1,2 +1,2 @@
 # lammps-parser
-Parses the output file from lammps and calculates the mean distance from the initial position for every atom in molecule
+Parses the LAMMPS output trajectory file and calculates the mean square distance from the initial state for every/selected atoms in the system.
